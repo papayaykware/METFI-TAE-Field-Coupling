@@ -54,16 +54,6 @@ Diseño de esquemas experimentales y de medición orientados a detectar acoplami
 
 ---
 
-## Principios editoriales
-
-* Lenguaje técnico-científico, preciso y accesible para público especializado.
-* Integridad ortográfica y cuidado estilístico.
-* Sustitución sistemática del término *monitorización* por *seguimiento*.
-* Referencias comentadas, priorizando fuentes sin conflicto de interés.
-* Apertura a hipótesis especulativas bien argumentadas, sin apelaciones a autoridad institucional.
-
----
-
 ## Estado del proyecto
 
 Repositorio en fase de **desarrollo conceptual activo**. Los artículos se incorporarán progresivamente como documentos independientes interconectados.

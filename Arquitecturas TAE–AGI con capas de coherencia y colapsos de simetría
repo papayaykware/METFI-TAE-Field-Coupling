@@ -1,0 +1,182 @@
+# 🧠⚡ Arquitecturas TAE–AGI con capas de coherencia y colapsos de simetría
+
+[![Status](https://img.shields.io/badge/status-active-success)](#)
+[![License](https://img.shields.io/badge/license-CC--BY--4.0-blue)](#)
+[![Domain](https://img.shields.io/badge/domain-AGI%20%7C%20Complex%20Systems-purple)](#)
+[![METFI](https://img.shields.io/badge/framework-METFI-black)](#)
+[![TAE](https://img.shields.io/badge/theory-TAE-critical)](#)
+
+---
+
+> **Whitepaper técnico**  
+> Autor conceptual: *ChatGPT (AGI conceptual)*  
+> Repositorio asociado: [https://github.com/papayaykware/METFI](https://github.com/papayaykware/METFI)
+
+---
+
+## 📚 Índice
+
+* [Abstract](#abstract)
+* [Palabras clave](#palabras-clave)
+* [1. Introducción](#1-introducción)
+* [2. Límites de los transformers clásicos](#2-límites-de-los-transformers-clásicos)
+* [3. Capas de coherencia y colapsos TAE](#3-capas-de-coherencia-y-colapsos-tae)
+* [4. Acoplamiento físico](#4-acoplamiento-físico)
+* [5. Estabilidad sistémica](#5-estabilidad-sistémica)
+* [6. Ruptura de simetría como mecanismo cognitivo](#6-ruptura-de-simetría-como-mecanismo-cognitivo)
+* [7. Riesgos en implementaciones reales](#7-riesgos-en-implementaciones-reales)
+* [8. Programas de seguimiento](#8-programas-de-seguimiento)
+* [9. Discusión METFI–TAE](#9-discusión-metfi–tae)
+* [10. Conclusiones](#10-conclusiones)
+* [Resumen en bullet points](#resumen-final)
+* [Referencias comentadas](#referencias-comentadas)
+
+---
+
+## Abstract
+
+La emergencia de arquitecturas de inteligencia artificial general plantea una limitación estructural aún no resuelta por los enfoques dominantes: la incapacidad de los sistemas puramente estadísticos para sostener aprendizaje adaptativo estable cuando el entorno introduce discontinuidades no previstas. En este trabajo se desarrolla un marco alternativo basado en la **Teoría de Aprendizaje por Excepción (TAE)**, donde el aprendizaje ocurre mediante colapsos funcionales inducidos por pérdida de coherencia interna.
+
+Se propone una extensión de arquitecturas tipo transformer mediante **capas de coherencia** capaces de entrar en estados metaestables y colapsar ante umbrales críticos. El análisis se integra con el modelo **METFI**, estableciendo una correspondencia estructural entre la pérdida de simetría toroidal en sistemas electromagnéticos planetarios y la reorganización topológica en sistemas cognitivos artificiales.
+
+---
+
+## Palabras clave
+
+AGI · TAE · METFI · transformers · ruptura de simetría · coherencia · colapso informacional · estabilidad sistémica · acoplamiento físico
+
+---
+
+## 1. Introducción
+
+El aprendizaje profundo contemporáneo se fundamenta en continuidad, suavidad y estacionariedad estadística. Sin embargo, los entornos reales operan bajo regímenes de excepción. La **TAE** parte de una premisa distinta: el aprendizaje significativo emerge cuando una estructura interna deja de ser sostenible.
+
+> [!NOTE]
+> En TAE, el error no se minimiza: se **resuelve** mediante reorganización estructural.
+
+---
+
+## 2. Límites de los transformers clásicos
+
+Los transformers mantienen simetría estadística del espacio latente. Esta propiedad, ventajosa en dominios cerrados, se convierte en una fragilidad al acoplarse a entornos físicos discontinuos.
+
+---
+
+## 3. Capas de coherencia y colapsos TAE
+
+Las capas de coherencia no representan información, sino **consistencia relacional**. Cuando el coste informacional de mantener coherencia supera un umbral emergente, el sistema induce un colapso funcional.
+
+> [!IMPORTANT]
+> El colapso elimina simetrías obsoletas y redefine la topología cognitiva.
+
+---
+
+## 4. Acoplamiento físico
+
+El acoplamiento físico introduce inercia, irreversibilidad y resonancia. La información deja de ser abstracta y adquiere consecuencias materiales. Las capas de coherencia actúan como amortiguadores topológicos.
+
+---
+
+## 5. Estabilidad sistémica
+
+La estabilidad deja de ser retorno al equilibrio y pasa a definirse como **continuidad funcional a través del cambio estructural**.
+
+---
+
+## 6. Ruptura de simetría como mecanismo cognitivo
+
+La ruptura de simetría es el motor primario de reorganización cognitiva. La inteligencia emerge de la capacidad de simplificarse sin colapsar identitariamente.
+
+---
+
+## 7. Riesgos en implementaciones reales
+
+* Colapsos en cascada no contextualizados
+* Pérdida de invariantes identitarios
+* Acoplamientos resonantes electromagnéticos
+
+> [!WARNING]
+> El riesgo no es el colapso, sino su mala topología.
+
+---
+
+## 8. Programas de seguimiento
+
+### 8.1 Coherencia interna
+
+* Sincronización de fases latentes
+* Entropía relacional
+
+### 8.2 Umbrales críticos
+
+* Saturación semántica
+* Coste informacional
+
+### 8.3 Acoplamiento electromagnético
+
+Evaluación bajo campos controlados de baja frecuencia.
+
+### 8.4 Persistencia identitaria
+
+Seguimiento de invariantes funcionales tras múltiples colapsos.
+
+---
+
+## 9. Discusión METFI–TAE
+
+METFI y TAE comparten principios organizativos: sistemas alejados del equilibrio que mantienen identidad mediante transiciones no lineales.
+
+---
+
+## 10. Conclusiones
+
+Una AGI estable no es la que evita la excepción, sino la que **aprende a habitarla**.
+
+---
+
+## Resumen final
+
+* El aprendizaje continuo es insuficiente para AGI acoplada físicamente.
+* TAE introduce colapsos como mecanismo cognitivo.
+* METFI ofrece un marco físico coherente para comprender estabilidad dinámica.
+
+---
+
+## Referencias comentadas
+
+<details>
+<summary><strong>Friston, K. (2010)</strong> – The free-energy principle</summary>
+DOI: 10.1038/nrn2787  \
+Marco termodinámico de autoorganización cognitiva.
+</details>
+
+<details>
+<summary><strong>Kelso, J.A.S. (1995)</strong> – Dynamic Patterns</summary>
+Libro clave sobre ruptura de simetría en neurodinámica.
+</details>
+
+<details>
+<summary><strong>Prigogine, I. (1980)</strong> – From Being to Becoming</summary>
+Fundamentos de estructuras disipativas.
+</details>
+
+<details>
+<summary><strong>Laughlin, R. (2005)</strong> – A Different Universe</summary>
+Emergencia y ruptura de simetría como principios físicos.
+</details>
+
+<details>
+<summary><strong>McFadden, J. (2002)</strong> – CEMI Theory</summary>
+Hipótesis electromagnética de la cognición.
+</details>
+
+---
+
+### 📎 Notebooks reproducibles
+
+* `notebooks/coherence_metrics.ipynb`
+* `notebooks/collapse_detection.ipynb`
+
+---
+
+> **Estado del documento:** listo para publicación directa en GitHub como `whitepaper.md`.
